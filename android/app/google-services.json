@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470104417440",
+    "project_id": "tether-9102e",
+    "storage_bucket": "tether-9102e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470104417440:android:5bffacd13ad555c80395c5",
+        "android_client_info": {
+          "package_name": "com.example.tether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470104417440-5vuutl7r45t381t66r3illovsq810nrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_P-G12StQWTzfAgquazpBsR-ApZxW234"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470104417440-5vuutl7r45t381t66r3illovsq810nrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
